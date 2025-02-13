@@ -6,6 +6,7 @@ global.owner = "254742491666"
 global.namaCreator = "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒" 
 global.autoJoin = false 
 global.antilink = false 
+global.autoviewonce = true
 global.versisc = '6.0' 
 global.codeInvite = "https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e"
 global.isLink = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
